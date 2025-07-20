@@ -1,2 +1,2 @@
 hello there how are you?
-git hub practice
+github practice
